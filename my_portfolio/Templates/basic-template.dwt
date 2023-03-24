@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>By the Book</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/pgd7hao.css">
+<link rel="stylesheet" href="https://use.typekit.net/pgd7hao.css">
+<link rel="stylesheet" href="https://use.typekit.net/pgd7hao.css">
+<!-- TemplateBeginEditable name="head" -->
+	
+	<style type="text/css">
+		
+		</style>
+	
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+  <ul> <li><a href="../pages/about.html">About</a></li>
+	  <li><a href="../pages/blog.html">Blog</a></li>
+	  <li><a href="../pages/gallery.html">Gallery</a></li>
+      <li><a href="../pages/contact.html">Contact</a></li>
+  </ul>
+  </nav>
+  <!--Begin Floated Elements-->
+			<aside><h3>Welcome to my portfolio! Here you can find examples of my work, some information about who I am, and more.</h3>
+			<h3>By Ashley Halka</h3>
+			</aside>
+	  <!-- TemplateBeginEditable name="main-content" -->
+	
+		<main>
+		  <h1>Page Title</h1>
+	  </main>
+	  <!-- TemplateEndEditable -->	  <!--End Floated Elements-->
+  <footer>&nbsp;</footer>
+</div>
+</body>
+</html>
